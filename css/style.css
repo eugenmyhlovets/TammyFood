@@ -1891,6 +1891,11 @@ body.lock {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .page__target {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+  }
+
   .target__body {
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
