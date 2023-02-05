@@ -20,8 +20,8 @@
 
 @font-face {
   font-family: "icons";
-  src: url("../fonts/icons.eot?fcfmch");
-  src: url("../fonts/icons.eot?fcfmch#iefix") format("embedded-opentype"), url("../fonts/icons.ttf?fcfmch") format("truetype"), url("../fonts/icons.woff?fcfmch") format("woff"), url("../fonts/icons.svg?fcfmch#icons") format("svg");
+  src: url("fonts/icons.eot?fcfmch");
+  src: url("fonts/icons.eot?fcfmch#iefix") format("embedded-opentype"), url("fonts/icons.ttf?fcfmch") format("truetype"), url("fonts/icons.woff?fcfmch") format("woff"), url("fonts/icons.svg?fcfmch#icons") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
