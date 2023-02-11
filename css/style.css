@@ -1938,6 +1938,9 @@ body.lock {
   }
 
   .content-footer__form {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 1 33.333%;
+            flex: 0 1 33.333%;
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
         align-self: center;
